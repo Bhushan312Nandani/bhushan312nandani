@@ -53,7 +53,7 @@ A results-driven Software Developer with a passion for building scalable, user-c
 ---
 
 ### 📊 GitHub Stats
-![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushan312nandani&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushan312nandani&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan312nandani&layout=compact&theme=radical)
 
 ---
