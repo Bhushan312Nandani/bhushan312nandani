@@ -1,17 +1,3 @@
-GitHubPro
-v1.2.0
-Spark Powered
-bhushan312nandani
-Found on GitHub
-
-Verified Profile Stats
-AI Content Ready
-Regenerate READMEGenerate Banner
-Generated BannerDownload
-Remix AI
-Preview
-Raw Content
-
 # Hi, I'm Bhushan Nandani 👋
 
 ### 🚀 Software Developer | Problem Solver | Tech Enthusiast
@@ -65,19 +51,3 @@ A results-driven Software Developer with a passion for building scalable, user-c
 
 ---
 
-*"Code is like humor. When you have to explain it, it’s bad."*
-Profile Audit
-README Optimized
-Skills Categorized
-Visual Consistency
-Recruiter Ready
-Socials Linked
-Pro Tip
-Recruiters spend an average of 6 seconds on your profile. The AI prioritized your most relevant tech stack at the very top of your README.
-
-Ready to Launch?
-Go to GitHub
-AI Audit: Clean
-Security: Verified
-Status: Optimizing...
-v1.2 Release build
