@@ -46,8 +46,7 @@ I am a motivated Computer Science student specializing in **Software Development
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhushan312Nandani&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan312Nandani&layout=compact&langs_count=7&theme=nord"/>
+  <img src="https://streak-stats.demolab.com?user=Bhushan312Nandani&theme=nord&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
